@@ -2,8 +2,8 @@ import sys
 import requests
 
 auth_params = {
-    'key': "1af6001ac0e30c7ac17454900c294628",
-    'token': "2b9accb0f672b8e7ec393a7bcd19404913116a415c42601a261e149e2850890a",
+    'key': "",    #введите свой ключ
+    'token': "",  #введите свой токен
 }
 
 base_url = "https://api.trello.com/1/{}"
